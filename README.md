@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahmoud7521
-- 👀 I’m interested in software engineering , embeeded systems
+- 👀 I’m interested in software engineering , embedded systems
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on greating big software systems
 - 📫 How to reach me ; mail me >>> mahmoudemad7521@gmail.com
