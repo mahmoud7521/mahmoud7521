@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on creating big software systems
 - 📫 How to reach me ; mail me >>> mahmoudemad7521@gmail.com
-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
